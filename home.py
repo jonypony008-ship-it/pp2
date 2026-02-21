@@ -1,0 +1,5 @@
+print("Hello, Python!")
+print(2 + 3)
+print("Welcome to W3Schools")
+print(True)
+print(10 * 5)
